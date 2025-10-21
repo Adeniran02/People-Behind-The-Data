@@ -1,6 +1,6 @@
 # People-Behind-The-Data
 ## 👥 HR Data Analysis - The People Behind the Data
-**Drumrolls, My new project is now live, folks.** This project isn’t just a dashboard — it’s a story. A story about the heartbeat of an organization told through attrition rates, promotion paths, commute distances, and satisfaction scores. For this project, I was careful with the choice of graph selection as every chart here reflects a choice, a challenge, a moment in someone’s career.
+**Drumrolls!! My new project is now live, folks.** This project isn’t just a dashboard — it’s a story. A story about the heartbeat of an organization told through attrition rates, promotion paths, commute distances, and satisfaction scores. For this project, I was careful with the choice of graph selection as every chart here reflects a choice, a challenge, a moment in someone’s career.
 This project was built in Power BI, and the HR dashboard explores:
 - Gender balance and attrition trends
 - Promotion eligibility and tenure distribution
