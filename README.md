@@ -11,9 +11,11 @@ This project was built in Power BI, and the HR dashboard explores:
 ## 📸 Dashboard Preview
 This is a picture of the overview dashboard below. The complete report and the methodology I used for my analysis are available on my Medium page and the Power BI Service for the live report.
 
+![HR Dashboard](./HR%20Dashboard.png)
+
 
 [Read the full story on Medium](https://adeniranolanrewaju.medium.com/the-people-behind-the-data-what-our-hr-dashboard-really-reveals-fc0da363acb6)
 
-[View the Live Dashboard on Power BI Service](https://adeniranolanrewaju.medium.com/the-people-behind-the-data-what-our-hr-dashboard-really-reveals-fc0da363acb6)
+[View the Live Dashboard on Power BI Service](https://app.powerbi.com/links/yKHSPQI1Nm?ctid=f52f2183-9f67-4ad2-b656-6f754fe196cb&pbi_source=linkShare)
 
  
