@@ -19,3 +19,6 @@ This is a picture of the overview dashboard below. The complete report and the m
 [View the Live Dashboard on Power BI Service](https://app.powerbi.com/links/yKHSPQI1Nm?ctid=f52f2183-9f67-4ad2-b656-6f754fe196cb&pbi_source=linkShare)
 
  
+## Why This Matters
+Behind every percentage is a person. This analysis was built with empathy, not just to visualize data, but to understand what it’s trying to say. From Sales Reps thriving through focus, to Managers juggling multiple roles with grace, the dashboard reveals not just performance, but potential.
+If you’re a data analyst, a manager, or just someone curious about the human side of analytics - this one’s for you.
