@@ -16,7 +16,7 @@ This is a picture of the overview dashboard below. The complete report and the m
 
 [Read the full story on Medium](https://adeniranolanrewaju.medium.com/the-people-behind-the-data-what-our-hr-dashboard-really-reveals-fc0da363acb6)
 
-[View the Live Dashboard on Power BI Service]([https://app.powerbi.com/links/yKHSPQI1Nm?ctid=f52f2183-9f67-4ad2-b656-6f754fe196cb&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiOTQ5YWNlNjgtNWQ4Zi00NDE3LWJiYzktMjBiZTY4MTI1MzIzIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9))
+[View the Live Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOTQ5YWNlNjgtNWQ4Zi00NDE3LWJiYzktMjBiZTY4MTI1MzIzIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 
  
 ## Why This Matters
